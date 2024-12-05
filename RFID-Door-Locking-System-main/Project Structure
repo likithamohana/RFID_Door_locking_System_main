@@ -1,0 +1,9 @@
+/src
+    - main_code.ino       // Main Arduino code for RFID door lock
+/hardware
+    - circuit_diagram.png // Circuit diagram for hardware setup
+/docs
+    - project_report.pdf  // Full project documentation
+    - user_manual.md      // User manual for the system
+/test
+    - test_code.ino       // Testing code for individual components
